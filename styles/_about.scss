@@ -1,0 +1,17 @@
+.about {
+    &-data {
+     text-align: center;
+     display: flex;
+    gap: 20px;
+     flex-direction: column;
+   
+    }
+        
+    
+        img {
+        width: 280px;
+      justify-self: center;
+        
+    }
+
+}
