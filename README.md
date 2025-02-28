@@ -16,4 +16,5 @@ Sass : Verimli ve modüler CSS için.
 Bootstrap Simgeleri : Sezgisel ve görsel olarak çekici simgeler için.
 # Ekran Goruntusu
 
-![bandicam2025-02-2819-02-32-334-ezgif com-crop](https://github.com/user-attachments/assets/413628a3-6179-4e6f-9b63-3cdfa6cf760a)
+![bandicam2025-02-2819-02-32-334-ezgif com-crop](https://github.com/user-attachments/assets/9e3df266-15fd-492d-ace1-34ccd93a1096)
+
